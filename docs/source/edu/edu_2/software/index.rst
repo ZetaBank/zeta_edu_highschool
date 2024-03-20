@@ -1,9 +1,9 @@
 Software
 ==================
 
-Describes the software that makes up the educational robot.
+교육용 로봇을 구성하는 소프트웨어에 대해 설명합니다.
 
-It consists of three main parts, and the characteristics of each are explained.
+크게 세 부분으로 구성되어 있으며, 각 부분의 특징을 설명하겠습니다.
 
 .. toctree::
 
