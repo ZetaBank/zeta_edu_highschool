@@ -1,7 +1,7 @@
-안녕안녕 AI ROBOT CONVERGENCE EDUCATION 
+AI 로봇 융합교육
 ===================
 
-Nice to meet you. This is ZETABANK, which is in charge of education. 
+안녕하세요. 교육을 맡게 된 제타뱅크입니다.
 
 .. thumbnail:: /_images/education/intro.png
       :width: 800
@@ -9,9 +9,9 @@ Nice to meet you. This is ZETABANK, which is in charge of education.
 
 .. raw:: html
 
-Purpose
+교육 목표
 ^^^^^^^^^^^^^^^
-1. Where are robots currently used and what future are they headed towards?
+1. 현재 로봇이 사용되고 있는 분야와 지향하는 미래에 대해 알아봅시다.
 
 2. How is a robot constructed?
 
