@@ -19,6 +19,8 @@ Purpose
 
 The purpose of today is to answer the above questions and improve your skills through education.
 
+안녕안녕 나는 지수야
+
 .. toctree:: 
     :caption: Robot trends and education
     :maxdepth: 1
