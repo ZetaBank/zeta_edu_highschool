@@ -1,7 +1,7 @@
 시간표
 ====================================================
 
-Today's Training Schedule
+오늘의 교육 시간표
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/timetable.png
