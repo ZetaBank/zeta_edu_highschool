@@ -28,8 +28,6 @@ Welcome! This is a place to introduce ZetaBank
 ----------------------------------------------------------------------------------------
 
 .. thumbnail:: /_images/education/uncontact.png
-      :width: 800
-      :height: 500
 
 .. raw:: html
 
