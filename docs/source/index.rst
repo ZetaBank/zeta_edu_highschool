@@ -32,13 +32,10 @@ The purpose of today is to answer the above questions and improve your skills th
 .. toctree:: 
     :maxdepth: 5
     :hidden:
-    :caption: Using GUI for Robot Control
+    :caption: Composition of AI robot
 
-    operate/explanation
-    operate/gui_driving/index
-    operate/gui_arm/index
-    operate/gui_safety/index
-    operate/gui_disinfection/index
+    edu/edu_2/software
+    edu/edu_2/hardware
 
 .. toctree:: 
     :maxdepth: 5
