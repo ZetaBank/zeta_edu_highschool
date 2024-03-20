@@ -13,11 +13,11 @@ AI 로봇 융합교육
 ^^^^^^^^^^^^^^^
 1. 현재 로봇이 사용되고 있는 분야와 지향하는 미래에 대해 알아봅시다.
 
-2. How is a robot constructed?
+2. 로봇은 어떻게 구성되어 상세히 알아봅시다.
 
-3. Developing unity and cooperation through robot experience
+3. 로봇 체엄을 통해 로봇을 조립하고, 제어해봅시다.
 
-The purpose of today is to answer the above questions and improve your skills through education.
+4. 팀 미션을 통해 커뮤니케이션 능력과 단합력을 향상시킵니다.
 
 .. toctree:: 
     :caption: AI 로봇 미래 동향과 교육
