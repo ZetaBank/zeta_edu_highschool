@@ -3,13 +3,7 @@ AI ROBOT CONVERGENCE EDUCATION
 
 Nice to meet you. This is ZETABANK, which is in charge of education. 
 
-.. thumbnail:: /_images/education/intro2.jpg
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-.. thumbnail:: /_images/education/intro.png
+.. thumbnail:: /_images/education/intro3.png
       :width: 800
       :height: 500
 
