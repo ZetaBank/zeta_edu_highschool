@@ -10,7 +10,7 @@
 방역 로봇
 ^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/contact3.png
+.. thumbnail:: /_images/education/contact4.png
 
 .. raw:: html
 
@@ -38,7 +38,7 @@
 
 순찰 로봇
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+ 
 .. thumbnail:: /_images/education/patrol.png
       :width: 800
       :height: 500
