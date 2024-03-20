@@ -1,4 +1,4 @@
-AI ROBOT CONVERGENCE EDUCATION
+안녕안녕 AI ROBOT CONVERGENCE EDUCATION 
 ===================
 
 Nice to meet you. This is ZETABANK, which is in charge of education. 
