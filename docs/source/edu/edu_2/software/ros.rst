@@ -1,10 +1,10 @@
 ROS1
 ====================================================
 
-ROS (Robot Operating System): Navigating the Future of Robotics
+ROS (Robot Operating System): 로봇 공학의 미래 탐색
 ^^^^^^^^^^^^^^^^
 
-In the realm of robotics, the Robot Operating System (ROS) stands as a testament to technological evolution and innovation. Much like Python's versatility in programming, ROS has redefined the landscape of robotic development, providing a comprehensive framework for creating, operating, and managing robots.
+로봇 공학 영역에서 ROS는 기술 발전과 혁신의 증거입니다. Python 프로그래밍 다양성과 마찬가지로 ROS는 로봇 개발의 환경을 재정의하여 로봇 생성, 운영 및 관리를 위한 포괄적인 프레임워크를 제공합니다.
 
 ----------------------------------------------------------------------------------------
 
@@ -12,47 +12,49 @@ In the realm of robotics, the Robot Operating System (ROS) stands as a testament
 
 .. raw:: html                                                                                                                                                                                                                                                                                                                                                                                                                             
 
-ROS Components: Assembling the Robotics Ecosystem
+ROS 구성요소: 로봇 생태계 결합
 ^^^^^^^^^^^^^^^^
 
-ROS is a collection of software libraries, tools, and frameworks that collectively form a powerful environment for robotics development. Let's delve into its components:
+ROS는 로봇 개발을 위한 환경을 집합적으로 형성하는 소프트웨어 라이브러리, 도구 및 프레임워크의 모음입니다. 구성요소를 자세히 살펴보겠습니다.
 
-1. Middleware: Enabling Communication
+1. 미들웨어 : 통신 활성화
 
-   At the heart of ROS is middleware that helps facilitate smooth communication between various robot components. This middleware helps with interoperability and collaboration between robots and sensors. Messages, services, and topics are pivotal aspects of this communication, allowing data exchange and control instructions to flow effortlessly.
+   ROS의 중심에는 다양한 로봇 구성 요소 간의 원활한 통신을 돕는 미들웨어가 있습니다. 미들웨어는 양 쪽을 연결하여 데이터를 주고 받을 수 있도록 중간에서 매개 역할을 하는 소프트웨어입니다. 이 미들웨어는 로봇과 센서 간의 상호 운용성과 협업을 돕습니다. 메시지, 서비스 및 토픽은 이러한 통신의 중추적인 측면으로 데이터 교환 및 제어 명령이 쉽게 흐르도록 합니다.
 
-2. Packages: Modular Functionality
+2. 패키지 : 모듈식 기능
 
-    ROS organizes functionalities into packages, which are modular units encapsulating specific robot-related tasks. These packages encompass nodes (individual processes), libraries, configuration files, and launch files. Each package contributes to the overall functionality of the robot, creating a cohesive and scalable architecture.
+    ROS는 특정 로봇 관련 작업을 캡슐화하는 모듈식 단위인 패키지로 기능을 구성합니다. 이러한 패키지에는 노드(개별 프로세스), 라이브러리, 구성 파일 및 실행 파일이 포함됩니다. 각 패키지는 로봇의 전반적인 기능에 기여하여 응집력 있고 확장 가능한 구조물을 만듭니다.
 
-3. Nodes: Independent Entity
+.. thumbnail:: /_images/education/node.png
 
-    Nodes are independent entities within ROS that perform specific tasks. They communicate with one another through the ROS middleware, collectively creating a distributed system. This distributed nature enables nodes to be developed, tested, and updated independently, promoting modular development and system resilience.
+.. raw:: html  
 
-4. Master: Orchestrating Communication
+3. 노드 : 독립 개체
 
-    The ROS Master coordinates communication among nodes, ensuring that messages are exchanged effectively. It facilitates the discovery of nodes, topics, and services, enabling seamless interaction within the robot's ecosystem.
+    노드는 특정 작업을 수행하는 ROS 내의 독립적인 개체입니다. ROS 미들웨어를 통해 서로 통신하여 분산 시스템을 만듭니다. 이러한 특성을 통해 노드를 독립적으로 개발, 테스트 및 업데이트할 수 있어 모듈 개발 및 시스템 탄력성이 향상됩니다.
 
-5. Services and Topics: Interaction Paradigms
+4. 마스터 : 커뮤니케이션 조정
 
-    Services and topics provide interaction paradigms within ROS. Topics enable the publication and subscription of messages, allowing nodes to communicate asynchronously. Services, on the other hand, facilitate synchronous communication by invoking specific functions on remote nodes.
+    ROS 마스터는 노드 간의 통신을 조정하여 메시지가 효과적으로 교환되도록 합니다. 이는 노드, 토픽 및 서비스 검색을 용이하게 하여 로봇 생태계 내에서 원활한 상호 작용을 가능하게 합니다.
 
-The Future of ROS: Pioneering Robotic Advancements
+5. 서비스 및 토픽 : 상호작용 패러다임
+
+    서비스와 토픽은 ROS 내의 상호 작용 패러다임을 제공합니다. 토픽을 사용하면 메시지 게시 및 구독이 가능해지며 노드가 비동기적(어떤 작업을 요청했을 때 실행중인 작업이 종료될 때까지 기다리지 않고 작업을 하고 있다가 먼저 작업이 종료되면 나머지 작업을 수행하는 방식)으로 통신할 수 있습니다. 서비스는 원격 노드에서 특정 기능을 호출하여 동기식 통신을 용이하게 합니다. 
+
+ROS의 미래 : 선구적인 로봇 발전
 ^^^^^^^^^^^^^^^^
 
-The trajectory of ROS points toward a future laden with groundbreaking advancements in robotics:
+1. 자율 시스템
+    ROS는 자율주행자동차부터 드론까지 자율주행 시스템을 구동하는 데 앞장서고 있습니다. ROS는 자율성에 필요한 복잡한 동작을 조율하는데 이상적인 소프트웨어입니다.
 
-1. Autonomous Systems
-    ROS is at the forefront of powering autonomous systems, from self-driving cars to drones. Its robust communication framework and modular architecture make it an ideal choice for orchestrating complex behaviors required for autonomy.
+2. 군집 로봇공학
+    여러 로봇이 분산된 방식으로 협력하는 군집 행동이 다양해짐에 따라 ROS는 중추적인 역할을 할 수 있습니다. 통신 프로토콜과 분산 특성은 군집 로봇 공학의 요구치를 만족합니다.
 
-2. Corps Robotics:
-    As robotics ventures into swarm behaviors—where multiple robots collaborate in a decentralized manner—ROS is poised to play a pivotal role. Its communication protocols and distributed nature align seamlessly with the requirements of swarm robotics.
+3. 인지 로봇공학
+    인공 지능 및 기계 학습 라이브러리와 호환되므로 인지 로봇 공학에 기여할 수 있습니다. 
 
-3. Cognitive Robotics:
-    ROS's compatibility with artificial intelligence and machine learning libraries positions it to contribute significantly to cognitive robotics. Robots equipped with perception, reasoning, and decision-making abilities will rely on ROS's architecture to execute complex tasks.
+4. 연구 및 교육
+    오픈 소스 특성은 협업과 학습을 촉진하여 학생과 연구자가 로봇 공학 분야를 실험하고 혁신하고 기여할 수 있도록 도와줍니다.
 
-4. Research and Education:
-    ROS is reshaping robotics education and research. Its open-source nature fosters collaboration and learning, enabling students and researchers to experiment, innovate, and contribute to the robotics field.
-
-5. Industry Integration:
-    The industrial landscape is embracing ROS as a platform for robotic applications. Its flexibility and adaptability facilitate the development of custom solutions tailored to specific industrial needs.
+5. 산업 통합
+    산업 환경에서는 ROS를 로봇 애플리케이션용 플랫폼으로 사용하고 있습니다. 유연성과 적응성은 특정 산업 요구에 맞는 맞춤형 솔루션을 제공할 수 있습니다.
