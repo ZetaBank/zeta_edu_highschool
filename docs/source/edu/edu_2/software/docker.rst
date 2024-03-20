@@ -1,78 +1,60 @@
 Docker
 ====================================================
 
-We introduce robots that have been manufactured and are currently in operation, and that will be developed and operated in the future.
-
-We explain what robots were and what robots will be popular in the future.
-
+- Linux Container 기반으로 하는 오픈소스 가상화 플랫폼
+- 노드간 통신을 기반으로 전체 시스템 구동
+- 메시지 기록 재생 기능으로 반복 실험가능
+- 알고리즘 개발에 용이
 ----------------------------------------------------------------------------------------
 
-Disinfection Robot
-^^^^^^^^^^^^^^^^^^^^
-
-.. thumbnail:: /_images/education/contact3.png
-
-.. raw:: html
-
-- Covid19 creates a need for non-face-to-face services
-
-- There is also a need for space disinfection.
-----------------------------------------------------------------------------------------
-
-Mobile collaborative robot
+일반적인 시스템 개발 흐름
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/modeli.png
+.. thumbnail:: /_images/education/docker1.png
       :width: 800
       :height: 500
 
 .. raw:: html
 
-- Increased use of robotic arms to improve productivity
-
-- The market for mobile collaborative robot technology is growing as it works by attaching it to a mobile robot rather than a fixed one.
-
-- Safety-related laws are currently being produced and the technology market is expected to grow further.
+- 개발, 테스트 환경에서 정상작동 하지만 제품 환경에서는 작동하지 않는 현상이 있을 수 있음
+- 환경이 다르면 작동하지 않는 경우가 있을 수 있고, 그 원인을 파악하는데 많은 시간과 노력이 소요됨
 
 ----------------------------------------------------------------------------------------
 
-Patrol Robot
+Docker를 사용한 시스템 개발 흐름
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/patrol.png
+.. thumbnail:: /_images/education/docker2.png
       :width: 800
       :height: 500
 
 .. raw:: html
 
-- As the population decreases, the use of surveillance robots increases, including in the military, police, and firefighting.
+- 오픈소스에서 Dockerfile을 가져와 Docker 이미지를 각 환경에 적용
+- 어느 환경이나 시점에서도 동일한 상황을 구현할 수 있음
 
 ---------------------------------------------------------------------------------------
 
-Transport Robot
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Docker의 구성요소
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/carry.png
-      :width: 800
-      :height: 500
+1. 컨테이너
 
-.. raw:: html
+   애플리케이션과 포함된 자료들을 캡슐화하는 단위인 컨테이너로 구성, 이식성과 재현성을 높여 다양한 시스템에서 원활하게 실행 하도록 합니다.
 
-- Robots that help transport goods in sparsely populated rural areas
+2. 이미지
+   
+   Docker의 이미지는 애플리케이션, 코드, 런타임, 라이브러리 및 기타 필수 구성 요소를 정의하며, 컨테이너를 인스턴스화 하여 실행될 수 있도록 합니다.
 
-- It also plays a role in delivering goods to underprivileged people who have difficulty moving around.
+3. Docker Engine
+   
+   컨테이너를 생성하고 관리하는 환경으로 컨테이너를 실행하고 호스트 운영 체제와 통신을 처리
 
----------------------------------------------------------------------------------------
+2. Docker Hub
+   
+   컨테이너화된 애플리케이션을 위한 Docker 이미지의 저장소 역할
 
-Education Robot
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2. Docker Compose
+   
+   다중 컨테이너 애플리케이션으로 여러 컴퓨터 시스템, 애플리케이션 조율 및 관리 작업을 단순화하여 복잡한 배포 작업을 간소화하고 일관성과 재현성을 보장
 
-.. thumbnail:: /_images/education/edu.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-- As the number of uses for robots increases, interest in robots increases.
-
-- Accordingly, interest in robot education is increasing.
