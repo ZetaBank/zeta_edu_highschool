@@ -18,7 +18,7 @@ Model I - It is a mobile collaborative robot that combines a movable driving uni
     :hidden:
     :titlesonly: 
 
-    edu_1/introduction
+    edu/edu_1/introduction
     0.intro/1.parts/index
 
 .. toctree:: 
