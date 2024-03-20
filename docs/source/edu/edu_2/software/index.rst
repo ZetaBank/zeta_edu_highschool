@@ -1,9 +1,9 @@
 Software
 ==================
 
-The state of the robot can be visually checked from the outside.
+Describes the software that makes up the educational robot.
 
-Receives data from multiple sensors and cameras attached to the robot
+It consists of three main parts, and the characteristics of each are explained.
 
 .. toctree::
 
