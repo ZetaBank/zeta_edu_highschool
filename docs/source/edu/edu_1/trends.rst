@@ -62,4 +62,17 @@ Transport Robot
 
 - It also plays a role in delivering goods to underprivileged people who have difficulty moving around.
 
+---------------------------------------------------------------------------------------
 
+Education Robot
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. thumbnail:: /_images/education/edu.png
+      :width: 800
+      :height: 500
+
+.. raw:: html
+
+- As the number of uses for robots increases, interest in robots increases.
+
+- Accordingly, interest in robot education is increasing.
