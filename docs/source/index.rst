@@ -9,6 +9,12 @@ Nice to meet you. This is ZETABANK, which is in charge of education.
 
 .. raw:: html
 
+.. thumbnail:: /_images/education/intro.png
+      :width: 800
+      :height: 500
+
+.. raw:: html
+
 Purpose
 ^^^^^^^^^^^^^^^
 1. Where are robots currently used and what future are they headed towards?
