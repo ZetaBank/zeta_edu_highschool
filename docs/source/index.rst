@@ -1,25 +1,33 @@
-ZETABANK
+AI ROBOT CONVERGENCE EDUCATION
 ===================
 
-Welcome! This is a place to introduce ZetaBank
+Nice to meet you. This is ZETABANK, which is in charge of education. 
 
-.. thumbnail:: /_images/education/patrol.png
+.. thumbnail:: /_images/education/intro.png
       :width: 800
       :height: 500
 
 .. raw:: html
 
+Purpose
+^^^^^^^^^^^^^^^
+1. Where are robots currently used and what future are they headed towards?
 
-Model I - It is a mobile collaborative robot that combines a movable driving unit and a robot arm. It has dry disinfection and wet disinfection functions.
+2. How is a robot constructed?
+
+3. Developing unity and cooperation through robot experience
+
+The purpose of today is to answer the above questions and improve your skills through education.
 
 .. toctree:: 
-    :caption: About Us
+    :caption: Robot trends and education
     :maxdepth: 1
     :hidden:
     :titlesonly: 
 
-    edu/edu_1/introduction
-    0.intro/1.parts/index
+    edu/edu_1/timetable
+    edu/edu_1/team
+    edu/edu_1/trends
 
 .. toctree:: 
     :maxdepth: 5
