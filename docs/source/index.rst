@@ -13,7 +13,7 @@ Welcome! This is a place to introduce ZetaBank
 Model I - It is a mobile collaborative robot that combines a movable driving unit and a robot arm. It has dry disinfection and wet disinfection functions.
 
 .. toctree:: 
-    :caption: 소개
+    :caption: About Us
     :maxdepth: 1
     :hidden:
     :titlesonly: 
