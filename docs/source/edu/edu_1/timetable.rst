@@ -1,4 +1,4 @@
-Timetable
+시간표
 ====================================================
 
 Today's Training Schedule
