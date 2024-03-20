@@ -1,25 +1,25 @@
 로봇 트랜드
 ====================================================
 
-We introduce robots that have been manufactured and are currently in operation, and that will be developed and operated in the future.
+현재 제작되어 운용되고 있는 로봇과 앞으로 개발 완료 후 운용될 로봇들을 소개합니다.
 
-We explain what robots were and what robots will be popular in the future.
+어떤 분야에 로봇이 사용되었었고, 앞으로는 어떤 로봇과 기술이 사용될지에 대해 설명하겠습니다.
 
 ----------------------------------------------------------------------------------------
 
-Disinfection Robot
+방역 로봇
 ^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/contact3.png
 
 .. raw:: html
 
-- Covid19 creates a need for non-face-to-face services
+- Covid19로 인해 비대면 서비스 로봇의 필요성이 급증하였습니다.
 
-- There is also a need for space disinfection.
+- 또한 공간 방역의 필요성도 증가함에 따라 방역 기능을 가진 로봇 운용이 증가하였습니다.
 ----------------------------------------------------------------------------------------
 
-Mobile collaborative robot
+이동식 협동 로봇
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/modeli.png
@@ -28,15 +28,15 @@ Mobile collaborative robot
 
 .. raw:: html
 
-- Increased use of robotic arms to improve productivity
+- 생산성 증가를 위해 로봇팔의 사용이 증가하였습니다.
 
-- The market for mobile collaborative robot technology is growing as it works by attaching it to a mobile robot rather than a fixed one.
+- 고정형 로봇이 아닌, 이동형 로봇에 부착하여 작동하는 이동식 협동 로봇 시장이 성장하고 있습니다.
 
-- Safety-related laws are currently being produced and the technology market is expected to grow further.
+- 현재 안전 관련 법률이 제정되고 있는 초기 단계이며, 기술 시장은 더욱 성장할 것으로 예상됩니다.
 
 ----------------------------------------------------------------------------------------
 
-Patrol Robot
+순찰 로봇
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/patrol.png
@@ -45,11 +45,11 @@ Patrol Robot
 
 .. raw:: html
 
-- As the population decreases, the use of surveillance robots increases, including in the military, police, and firefighting.
+- 인력 감소와 그에 따른 감시 범위가 늘어남에 따라 군, 경찰, 소방 등의 분야에서 순찰로봇의 활용이 늘어나고 있습니다.
 
 ---------------------------------------------------------------------------------------
 
-Transport Robot
+운송 로봇
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/carry.png
@@ -58,9 +58,9 @@ Transport Robot
 
 .. raw:: html
 
-- Robots that help transport goods in sparsely populated rural areas
+- 인구 밀도가 낮고, 고령화가 심한 농촌 지역에서 물품 운송을 돕는 로봇입니다.
 
-- It also plays a role in delivering goods to underprivileged people who have difficulty moving around.
+- 이동이 어려운 소외계층에 물품을 전달하는 역할도 합니다.
 
 ---------------------------------------------------------------------------------------
 
@@ -73,6 +73,6 @@ Education Robot
 
 .. raw:: html
 
-- As the number of uses for robots increases, interest in robots increases.
+- 다양한 분야에서 로봇의 활용이 많아짐에 따라 로봇 교육에 대한 관심도도 높아졌습니다.
 
-- Accordingly, interest in robot education is increasing.
+- 로봇에 대한 흥미와 지식을 길러주어 관련 분야로 진출하는데 도움을 줄 수 있도록 합니다. 
