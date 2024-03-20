@@ -30,7 +30,7 @@ The purpose of today is to answer the above questions and improve your skills th
     edu/edu_1/trends
 
 .. toctree:: 
-    :caption: Coposition of AI Robot
+    :caption: Composition of AI Robot
     :maxdepth: 1
     :hidden:
     :titlesonly: 
