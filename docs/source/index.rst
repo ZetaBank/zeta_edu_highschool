@@ -22,7 +22,7 @@ The purpose of today is to answer the above questions and improve your skills th
 안녕안녕 나는 지수야
 
 .. toctree:: 
-    :caption: Robot trends and education
+    :caption: AI 로봇 미래 동향과 교육
     :maxdepth: 1
     :hidden:
     :titlesonly: 
