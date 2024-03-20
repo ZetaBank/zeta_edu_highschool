@@ -34,13 +34,13 @@ The purpose of today is to answer the above questions and improve your skills th
     :hidden:
     :caption: Composition of AI robot
 
-    edu/edu_2/software
+    edu/edu_2/software/index
     edu/edu_2/hardware
 
 .. toctree:: 
     :maxdepth: 5
     :hidden:
-    :caption: Disinfection process by location
+    :caption: Disinfection process by location 
 
     process/introduction
     process/hdi
