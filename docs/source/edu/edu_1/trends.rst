@@ -29,6 +29,7 @@ We explain what robots were and what robots will be popular in the future.
 - Safety-related laws are currently being produced and the technology market is expected to grow further.
 
 ----------------------------------------------------------------------------------------
+
 .. thumbnail:: /_images/education/patrol.png
       :width: 800
       :height: 500
