@@ -27,7 +27,7 @@ Welcome! This is a place to introduce ZetaBank
 
 ----------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/education/uncontact.png
+.. thumbnail:: /_images/education/contact3.png
 
 .. raw:: html
 
