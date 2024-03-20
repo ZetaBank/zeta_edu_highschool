@@ -9,49 +9,16 @@ Welcome! This is a place to introduce ZetaBank
 
 .. raw:: html
 
-----------------------------------------------------------------------------------------
-
-.. thumbnail:: /_images/education/carry.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-----------------------------------------------------------------------------------------
-
-.. thumbnail:: /_images/education/modeli.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-----------------------------------------------------------------------------------------
-
-.. thumbnail:: /_images/education/contact3.png
-
-.. raw:: html
-
-----------------------------------------------------------------------------------------
-
-.. thumbnail:: /_images/education/edu.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-    <div>
-        <h2>Zetabank's mobile collaborative robot</h2>
-    </div>
 
 Model I - It is a mobile collaborative robot that combines a movable driving unit and a robot arm. It has dry disinfection and wet disinfection functions.
 
 .. toctree:: 
-    :caption: Model I
+    :caption: 소개
     :maxdepth: 1
     :hidden:
     :titlesonly: 
 
-    0.intro/introduction
+    edu_1/introduction
     0.intro/1.parts/index
 
 .. toctree:: 
