@@ -7,6 +7,9 @@ We explain what robots were and what robots will be popular in the future.
 
 ----------------------------------------------------------------------------------------
 
+Disinfection Robot
+^^^^^^^^^^^^^^^^^^^^
+
 .. thumbnail:: /_images/education/contact3.png
 
 .. raw:: html
@@ -15,6 +18,9 @@ We explain what robots were and what robots will be popular in the future.
 
 - There is also a need for space disinfection.
 ----------------------------------------------------------------------------------------
+
+Mobile collaborative robot
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/modeli.png
       :width: 800
@@ -30,6 +36,9 @@ We explain what robots were and what robots will be popular in the future.
 
 ----------------------------------------------------------------------------------------
 
+Patrol Robot
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. thumbnail:: /_images/education/patrol.png
       :width: 800
       :height: 500
@@ -39,6 +48,9 @@ We explain what robots were and what robots will be popular in the future.
 - As the population decreases, the use of surveillance robots increases, including in the military, police, and firefighting.
 
 ---------------------------------------------------------------------------------------
+
+Transport Robot
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/carry.png
       :width: 800
