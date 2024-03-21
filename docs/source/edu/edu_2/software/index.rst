@@ -10,6 +10,6 @@ Software
      rms
      jupyter
      foldertree
-     issac_sight
+     isaac_sight
 
 
