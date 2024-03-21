@@ -11,7 +11,7 @@ AI 로봇 융합교육
 
 4. 팀 미션을 통해 커뮤니케이션 능력과 단합력을 향상시킵니다.
 
-.. thumbnail:: /_images/education/contact2.png
+.. thumbnail:: /_images/education/contact2.PNG
       :width: 800
       :height: 500
 
