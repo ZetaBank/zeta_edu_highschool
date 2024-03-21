@@ -3,7 +3,7 @@ AI 로봇 융합교육
 
 안녕하세요. 교육을 맡게 된 제타뱅크입니다.
 
-.. thumbnail:: /_images/education/intro.png
+.. thumbnail:: /_images/education/intro4.png
       :width: 800
       :height: 500
 
