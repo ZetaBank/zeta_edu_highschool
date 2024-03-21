@@ -22,8 +22,6 @@
 
 - JupyterHuB의 강의 폴더에 들어가면 위와 같은 폴더들을 확인할 수 있습니다.
 
-|
-
 - 폴더 구조는 다음과 같습니다.
 
     1. Driving the Robot Examples - ROS를 사용하여 로봇 좌표를 이동하는 예제입니다.
