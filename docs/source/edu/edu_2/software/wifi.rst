@@ -10,13 +10,13 @@ Wifi 설정
 연결 방법
 -----------------------
 
-.. thumbnail:: /_images/education/wifi1.png
+.. thumbnail:: /_images/education/wifi2.png
 
 - 로봇 상판에 기입되어 있는 로봇 이름을 확인합니다.
 
 ------------------------------------------------
 
-.. thumbnail:: /_images/education/wifi.png
+.. thumbnail:: /_images/education/wifi.PNG
 
 - 네트워크로 접속하여 로봇 이름과 동일한 wifi에 접속합니다.
 - 비밀번호는 12345678 입니다.
