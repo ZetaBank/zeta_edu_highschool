@@ -1,35 +1,37 @@
-Organize folders and code
+폴더 및 코드 정리
 =========
 
 .. raw:: html
 
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Follow Along: About code structure
+            코드 구조 정보 활용하기
         </p>
         <div class="line-block">
-            <div class="line"><strong>-</strong> Codes that can be executed are divided by item in JupyterHub.</div>
-            <div class="line"><strong>-</strong> Let's take a quick look at what codes are. </div>
+            <div class="line"><strong>-</strong> JupyterHub에서 실행할 수 있는 코드를 항목별로 나누어 놓았습니다.</div>
+            <div class="line"><strong>-</strong> 어떤 코드가 있는지 간단히 살펴보겠습니다. </div>
         </div>
     </div>
 
 .. raw:: html
 
-Overall
+전반적인 소개
 -----------------------
 
 .. thumbnail:: /_images/jupyter/foldertree.png
 
-- If you go into the lecture folder of jupyterhub, you can see the following folders.
+- JupyterHuB의 강의 폴더에 들어가면 위와 같은 폴더들을 확인할 수 있습니다.
 
-- The folder structure is as follows.
+|
 
-    1. Driving the Robot Examples - Robot coordinates can be moved using ROS.
+- 폴더 구조는 다음과 같습니다.
 
-    2. AI Training Examples - Experience AI code using NVIDIA jetson inferense.
+    1. Driving the Robot Examples - ROS를 사용하여 로봇 좌표를 이동하는 예제입니다.
 
-    3. Robot Control Examples - Using ROS, you can publish or subscribe to topics and monitor sensors.
+    2. AI Training Examples - NVIDIA Jetson을 활용하여 AI 관련 예제들을 수행할 수 있습니다.
 
-    4. SLAM and Navigation - You can try running a simple slam and navigation example.
+    3. Robot Control Examples - ROS를 사용하여 topic을 만들거나 구독하고 센서를 모니터링할 수 있습니다.
 
-    5. Robot Arm - You can try various examples related to the robot arm.
+    4. SLAM and Navigation - 간단한 맵 만들기 및 길찾기 예제를 실행할 수 있습니다.
+
+    5. Robot Arm - 로봇팔과 관련된 다양한 예제를 실행할 수 있습니다.
