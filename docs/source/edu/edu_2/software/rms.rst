@@ -1,71 +1,65 @@
 RMS (Robot Management System)
 ================
 
-.. raw:: html
+웹 상에서 로봇을 제어할 수 있도록 만든 시스템입니다.
 
-    <div style="background: #C3F8FF" class="admonition note custom">
-        <p style="background: light-blue" class="admonition-title">
-            Follow Along: Let's move the AI robot to its destination
-        </p>
-        <div class="line-block">
-            <div class="line"><strong>-</strong> Move the AI robot to the destination using navigation, camera and mouse manipulation on the RMS page.</div>
-            <div class="line"><strong>-</strong> See the different visual outcomes by moving the robot using "driving robot" examples. </div>
-        </div>
-    </div>
+다양한 시각적 데이터를 즉각적으로 확인할 수 있습니다.
 
-.. raw:: html
+-----------------------------------------------------
 
-How to connect
+연결 방법
 -----------------------
 
 .. thumbnail:: /_images/rms/rms_ui1.png
 
-- Open a browser and connect to `<http://10.42.0.1:5000/>`_.
+- 브라우저를 열고 `<http://10.42.0.1:5000/>`_ 에 접속합니다.
 
-How to control the robot
+-----------------------------------------------------
+
+로봇 제어 방법
 -----------------------
 
 .. thumbnail:: /_images/rms/rms_ui2.png
 
-- You can check the monitoring period of sensors such as map, lidar, and motor.
+- 지도, 라이더, 모터 등 센서의 모니터링 주기를 확인할 수 있습니다.
 
 |
 
 .. thumbnail:: /_images/rms/rms_ui3.png
 
-- You can specify the destination of the ai robot by pressing the start nav goal button.
+- Start Nav Goal 버튼을 눌러 AI 로봇의 목적지를 지정할 수 있습니다.
 
 |
 
 .. thumbnail:: /_images/rms/rms_ui4.png
 
-- You can check the map.
+- 지도를 확인할 수 있습니다.
 
-    - The white area is a movable area.
+    - 흰색 영역은 이동 가능한 영역입니다.
 
-    - The black area is an area that cannot be moved (ex. wall).
+    - 검은색 영억은 이동이 불가능한 영역입니다 (ex. wall).
 
-    - Gray areas are areas that have not yet been scanned.
+    - 회색 영역은 아직 스캔되지 않은 영역입니다..
 
-    - Green points are walls recognized by ildar.
+    - 녹색 선은 라이다가 인식하는 객체입니다.
 
 |
 
 .. thumbnail:: /_images/rms/rms_ui5.png
 
-- You can see the viewpoint of the camera in front of the ai robot.
+- AI 로봇 정면에 있는 카메라 시점을 볼 수 있습니다.
 
 |
 
 .. thumbnail:: /_images/rms/rms_ui6.png
 
-- You can freely control the ai robot using the mouse.
+- 마우스를 이용하여 AI 로봇을 자유롭게 주행시킬 수 있습니다.
 
 |
 
 .. thumbnail:: /_images/rms/rms_ui7.png
 
-- You can turn on or off each function of the robot.
+- 로봇의 각 기능을 켜거나 끌 수 있습니다.
 
 |
 
