@@ -36,4 +36,11 @@ AI 로봇 융합교육
     edu/edu_2/hardware/index
     edu/edu_2/software/index
     
+.. toctree:: 
+    :caption: Break Time
+    :maxdepth: 1
+    :hidden:
+    :titlesonly: 
+
+    edu/edu_3/break/index
 
