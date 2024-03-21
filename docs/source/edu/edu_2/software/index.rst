@@ -7,8 +7,9 @@ Software
 
 .. toctree::
 
-     ros
-     docker
+     rms
      jupyter
+     foldertree
+     issac_sight
 
 
