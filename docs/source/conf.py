@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Handong Global University Version'
+project = 'High School Version'
 # copyright = '2021, Graziella'
 author = 'Zetabank'
 
