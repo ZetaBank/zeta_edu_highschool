@@ -7,6 +7,7 @@ Software
 
 .. toctree::
 
+     wifi
      rms
      jupyter
      foldertree
