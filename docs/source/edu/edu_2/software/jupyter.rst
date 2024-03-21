@@ -45,10 +45,12 @@ JupterLab 접속 & 예시 실행
 코드 실행 방법 (ex. 로봇 팔 예제) 
 -----------------------
 
-  * 'Lecture' 폴더로 이동
+* 'Lecture' 폴더로 이동
   
-    .. thumbnail:: /_images/jupyter/cap2.png
+.. thumbnail:: /_images/jupyter/cap2.png
   
+|
+
 
   * '5.Robot Arm' 폴더로 이동
   
