@@ -1,22 +1,12 @@
-Wifi 설정
+포켓몬 잡기
 ================
 
-로봇 제어를 위한 소프트웨어를 사용하기 위해서는 로봇과 제어하는 PC의 연결이 필요합니다.
+.. raw:: html
 
-뒤에 설명드릴 기능들을 시작하기 전 기본적으로 행해야 하는 작업이니 수행해주세요.
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/atRYRt-3B_w?si=E_Ze6EoYkKIUfUcd" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
------------------------------------------------------
-
-연결 방법
------------------------
-
-.. thumbnail:: /_images/education/wifi2.png
-
-- 로봇 상판에 기입되어 있는 로봇 이름을 확인합니다.
-
-------------------------------------------------
-
-.. thumbnail:: /_images/education/wifi.PNG
-
-- 네트워크로 접속하여 로봇 이름과 동일한 wifi에 접속합니다.
-- 비밀번호는 12345678 입니다.
+1. We provide educational skills that promote students thinking skills with cutting-edge technology such as Big Data, Artificial Intelligence, Virtualization, Robotics, Autonomous Driving.
+2. We believe that better machine-human interaction is the future of technology.
+3. We promote the convergence of educational majors.
