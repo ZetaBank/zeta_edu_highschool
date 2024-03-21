@@ -51,15 +51,16 @@ JupterLab 접속 & 예시 실행
   
 |
 
+* '5.Robot Arm' 폴더로 이동
+  
+.. thumbnail:: /_images/jupyter/cap3.png
+  
+|
 
-  * '5.Robot Arm' 폴더로 이동
+* 05_04_dance.ipynb 파일 열기
   
-    .. thumbnail:: /_images/jupyter/cap3.png
-  
-
-  * 05_04_dance.ipynb 파일 열기
-  
-    .. thumbnail:: /_images/jupyter/cap4.png
+.. thumbnail:: /_images/jupyter/cap4.png
     
+|
 
-  * 셀 실행
+* 셀 실행
