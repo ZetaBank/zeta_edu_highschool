@@ -44,3 +44,12 @@ AI 로봇 융합교육
 
     edu/edu_3/break/index
 
+.. toctree:: 
+    :caption: AI 로봇 조립과 자율주행
+    :maxdepth: 1
+    :hidden:
+    :titlesonly: 
+
+    edu/edu_4/making/index
+    edu/edu_4/control/index
+
