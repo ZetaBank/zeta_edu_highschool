@@ -1,22 +1,19 @@
-Wifi 설정
+저울 평형 맞추기
 ================
 
-로봇 제어를 위한 소프트웨어를 사용하기 위해서는 로봇과 제어하는 PC의 연결이 필요합니다.
+.. raw:: html
 
-뒤에 설명드릴 기능들을 시작하기 전 기본적으로 행해야 하는 작업이니 수행해주세요.
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/2BkZyyyKtuo?si=prONPjgMk-x7KBhn" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+|
 
------------------------------------------------------
+1. 저울 위에 물건을 올립니다.
 
-연결 방법
------------------------
+2. 타이머를 시작합니다.
 
-.. thumbnail:: /_images/education/wifi2.png
+3. 장식대 위의 물건을 집어와 반대편에 올립니다.
 
-- 로봇 상판에 기입되어 있는 로봇 이름을 확인합니다.
+4. 3번 행위를 반복하여 저울의 평형을 맞춥니다.
 
-------------------------------------------------
-
-.. thumbnail:: /_images/education/wifi.PNG
-
-- 네트워크로 접속하여 로봇 이름과 동일한 wifi에 접속합니다.
-- 비밀번호는 12345678 입니다.
+4. 최대한 짧은 시간 내에 저울을 평형상태로 만드는 것이 목표입니다.
