@@ -33,6 +33,7 @@ AI 로봇 융합교육
     :hidden:
     :titlesonly: 
 
+    edu/edu_2/hardware/index
     edu/edu_2/software/index
-    edu/edu_2/hardware
+    
 
