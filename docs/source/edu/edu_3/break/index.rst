@@ -13,7 +13,7 @@ Break Time
 
 .. toctree::
 
-     rms
-     jupyter
-     foldertree
-     isaac_sight
+     manual
+     pocketmon
+     scale
+     stacking
