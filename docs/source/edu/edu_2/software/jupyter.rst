@@ -1,33 +1,33 @@
-JupterLab Access & Run examples
+JupterLab 접속 & 예시 실행
 ================
 
 .. raw:: html
 
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Follow Along: About Codespace and JupyterLab
+            JupyterLab 활용하기
         </p>
         <div class="line-block">
-            <div class="line"><strong>-</strong> Most of the code can be run on JupyterLab.</div>
-            <div class="line"><strong>-</strong> Describes how to run code on JupyterLab. </div>
+            <div class="line"><strong>-</strong> 대부분의 코드를 JupyterLab에서 실행할 수 있습니다.</div>
+            <div class="line"><strong>-</strong> JupyterLab에서 코드 실행 방법을 설명합니다. </div>
         </div>
     </div>
 
 .. raw:: html
 
-How to connect
+연결 방법
 -----------------------
 
-1. Access Zetabot JupyterLab and run the Topic Publish example
+1. Zetabot JupyterLab에 접속하여 Topic Publish 예제를 실행합니다.
 
-  * JupyterLab Access
+  * JupyterLab 접속
     
     .. code:: 
       
       http://10.42.0.1:8000
     .. thumbnail:: /_images/jupyter/jup1.jpg
     
-  * Input Username / Password 
+  * 사용자 이름 / 비밀번호 입력
     
     .. code::
      
@@ -39,25 +39,25 @@ How to connect
     
     .. thumbnail:: /_images/jupyter/cap1.png
 
-How to run code
+
+--------------------------------------------------------------
+
+코드 실행 방법 (ex. 로봇 팔 예제) 
 -----------------------
 
-  * Moving to 'lecture' folder
+  * 'Lecture' 폴더로 이동
   
     .. thumbnail:: /_images/jupyter/cap2.png
-    
-  * Moving to '5.Robot Arm' folder
+  
+
+  * '5.Robot Arm' 폴더로 이동
   
     .. thumbnail:: /_images/jupyter/cap3.png
   
-  * Opening 05_04_dance.ipynb file
+
+  * 05_04_dance.ipynb 파일 열기
   
     .. thumbnail:: /_images/jupyter/cap4.png
     
-  * Run the cells
-  
-    .. code:: 
-    With your team members, se
-      Ctrl + Enter
 
-    .. thumbnail:: /_images/jupyter/cap5.png
+  * 셀 실행
