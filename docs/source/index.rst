@@ -28,7 +28,7 @@ AI 로봇 융합교육
     edu/edu_1/trends
 
 .. toctree:: 
-    :caption: 123123
+    :caption: AI 로봇의 구성
     :maxdepth: 1
     :hidden:
     :titlesonly: 
