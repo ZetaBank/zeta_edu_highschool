@@ -10,7 +10,7 @@
 
 .. thumbnail:: /_images/education/fixture1.png
       :width: 500
-      :height: 200
+      :height: 300
 
 .. raw:: html
 
