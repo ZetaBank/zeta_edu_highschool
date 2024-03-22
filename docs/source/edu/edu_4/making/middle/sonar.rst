@@ -34,7 +34,7 @@
 중간판 - 초음파 센서 유닛 장작
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/speaker3.png
+.. thumbnail:: /_images/education/sonar3.png
       :width: 800
       :height: 500
 
