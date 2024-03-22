@@ -51,5 +51,14 @@ AI 로봇 융합교육
     :titlesonly: 
 
     edu/edu_4/making/index
-    edu/edu_4/control/index
+    edu/edu_4/control
+
+.. toctree:: 
+    :caption: 마무리하기
+    :maxdepth: 1
+    :hidden:
+    :titlesonly: 
+
+    edu/edu_5/reverse
+    edu/edu_5/finish
 
