@@ -33,7 +33,7 @@
 안테나 단자 - 안테나 결합
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/antena2.png
+.. thumbnail:: /_images/education/antena3.png
       :width: 800
       :height: 500
 
