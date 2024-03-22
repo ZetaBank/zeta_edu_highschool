@@ -8,6 +8,7 @@
      lidar
      checker
      antena
+     combination
      cable
    
 .. raw:: html
