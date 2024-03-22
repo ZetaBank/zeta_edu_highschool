@@ -27,8 +27,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/education/bottom1.png
-      :width: 800
-      :height: 500
+      :width: 500
+      :height: 300
 
 .. raw:: html
 
