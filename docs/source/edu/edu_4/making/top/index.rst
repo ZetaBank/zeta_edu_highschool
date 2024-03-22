@@ -5,11 +5,9 @@
 
 .. toctree::
 
-     fixture
-     sonar
-     combination
-     sonarcable
-     lan
-     battery
+     lidar
+     checker
+     antena
+     cable
    
 .. raw:: html
