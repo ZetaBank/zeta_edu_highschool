@@ -8,7 +8,7 @@
 필요 부품
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/fixture3.png
+.. thumbnail:: /_images/education/battery1.png
       :width: 500
       :height: 300
 
@@ -19,7 +19,7 @@
 중간판 - 배터리 & 지지대 결합
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/fixture4.png
+.. thumbnail:: /_images/education/battery2.png
       :width: 800
       :height: 500
 
