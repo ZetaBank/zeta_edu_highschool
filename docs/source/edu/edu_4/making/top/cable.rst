@@ -8,7 +8,7 @@
 배터리 & 배터리 체커 케이블 연결
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/cable6.png
+.. thumbnail:: /_images/education/cable6.PNG
       :width: 500
       :height: 300
 
@@ -23,7 +23,7 @@
 라이다 - 젯슨나노 케이블 연결
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/cable7.png
+.. thumbnail:: /_images/education/cable7.PNG
       :width: 800
       :height: 500
 
