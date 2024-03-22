@@ -8,7 +8,7 @@
 케이블 연결
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/sonarcable.png
+.. thumbnail:: /_images/education/sonarcable1.png
       :width: 800
       :height: 500
 
