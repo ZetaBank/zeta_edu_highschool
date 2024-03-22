@@ -5,56 +5,9 @@ AI 로봇 조립하기
 
 로봇을 처음부터 조립해보면서 자율주행 로봇을 만들기 위해서는 어떤 부품들이 필요한지 체험해 보도록 합시다.
 
---------------------------------------------------------
 
-전체 조립 순서
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. thumbnail:: /_images/education/making1.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
---------------------------------------------------------
-
-전체 구성
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. thumbnail:: /_images/education/making2.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
------------------------------------------
-
-조립 나사, 케이블 종류
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. thumbnail:: /_images/education/bolt.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-.. thumbnail:: /_images/education/cable.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
------------------------------------------
-
-체크리스트
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. thumbnail:: /_images/education/checklist.png
-      :width: 800
-      :height: 500
-    
 .. toctree::
-
+     intro
      bottom/index
      middle/index
      top/index
