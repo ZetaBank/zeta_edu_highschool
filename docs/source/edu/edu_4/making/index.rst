@@ -8,6 +8,6 @@ AI 로봇 조립하기
 
 .. toctree::
      intro
-     bottom
+     bottom/index
      middle/index
      top/index
