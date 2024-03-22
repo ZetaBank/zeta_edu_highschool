@@ -37,7 +37,7 @@
 바닥판 - 구동휠 조립
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/wheel.png
+.. thumbnail:: /_images/education/bottom2.png
       :width: 800
       :height: 500
 
