@@ -19,7 +19,7 @@
 상판 - 본체 결합
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/education/combination2.png
+.. thumbnail:: /_images/education/combination4.png
       :width: 800
       :height: 500
 
