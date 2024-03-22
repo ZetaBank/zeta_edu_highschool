@@ -1,25 +1,8 @@
-AI 로봇 조립하기
-==================
+AI 로봇 제어하기
+=================
 
-팀 별로 AI 로봇을 조립하는 시간입니다.
+로봇 조립이 완료되었으니 조작해볼 시간입니다.
 
-로봇을 처음부터 조립해보면서 자율주행 로봇을 만들기 위해서는 어떤 부품들이 필요한지 체험해 보도록 합시다.
+조이스틱으로도 움직여보고 RMS를 통해서도 움직여 보도록 합시다.
 
-
-.. thumbnail:: /_images/education/making1.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-.. thumbnail:: /_images/education/making2.png
-      :width: 800
-      :height: 500
-
-.. raw:: html
-    
-.. toctree::
-
-     bottom/index
-     middle/index
-     top/index
+조작법은 Software 파트를 참고하고, 조이스틱은 Break Time 파트를 참고하면 됩니다.
