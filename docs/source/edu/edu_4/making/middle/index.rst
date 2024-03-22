@@ -10,7 +10,6 @@
      combination
      sonarcable
      lan
-     jetson
      battery
    
 .. raw:: html
