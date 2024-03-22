@@ -1,25 +1,18 @@
-AI 로봇 조립하기
+바닥판 조립
 ==================
 
-팀 별로 AI 로봇을 조립하는 시간입니다.
+로봇의 기초가 되는 바닥판 조립입니다.
 
-로봇을 처음부터 조립해보면서 자율주행 로봇을 만들기 위해서는 어떤 부품들이 필요한지 체험해 보도록 합시다.
+구동부 뿐만 아니라 PCB 보드도 부착되는 부분이므로 주의하여 조립하시기 바랍니다.
 
-
-.. thumbnail:: /_images/education/intro.PNG
-      :width: 800
-      :height: 500
-
-.. raw:: html
-
-.. thumbnail:: /_images/education/intro.PNG
-      :width: 800
-      :height: 500
-
-.. raw:: html
-    
 .. toctree::
 
-     bottom/index
-     middle/index
-     top/index
+     wheel
+     caster
+     bumper
+     fixture
+     board
+     speaker
+     cable
+   
+.. raw:: html
